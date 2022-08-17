@@ -29,4 +29,4 @@
 </div>
 
    ##
-  avatar: [picrew fayev](https://picrew.me/image_maker/678462)
+  avatar: [picrew カイエ](https://picrew.me/image_maker/14809)
