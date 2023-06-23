@@ -21,7 +21,4 @@
  -->
   
   ##
-
-
-   ##
   avatar: [picrew カイエ](https://picrew.me/image_maker/14809)
