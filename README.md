@@ -1,5 +1,5 @@
 ## Hello World! I'm S, a Junior Programmer.
-🌱 I’m currently learning: Python, SQL, HTML/CSS, JavaScript and PHP.
+🌱 I’m currently learning: Python, JavaScript and PHP.
 <br>
  <!-- 😄 Pronouns: I use any pronouns. -->
 <div align="center">
