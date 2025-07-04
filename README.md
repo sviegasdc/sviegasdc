@@ -1,6 +1,5 @@
-## Hello World! I'm S, a Junior Programmer.
-🌱 I’m currently learning: Python, JavaScript and PHP.
-<br>
+
+🌱 
  <!-- 😄 Pronouns: I use any pronouns. -->
 <div align="center">
   <a href="https://github.com/sviegasdc">
